@@ -589,6 +589,7 @@ Name           | Address
 [Milyman](https://tonviewer.com/0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce) | EQCfJ4Su11h0_MB2XRvIjm8gw0y2AB4RZEfOoPOweyVIzvda
 [MineX](https://tonviewer.com/0:729f9ad6328db9e1ab51903f032877242b615420f62c12c53aa2ca3220ae8ce9) | EQByn5rWMo254atRkD8DKHckK2FUIPYsEsU6osoyIK6M6Wt0
 [Mining Base Coin](https://tonviewer.com/0:49d870b19012a1f2cf5bab7c1d50211828ddd530ffe77ac65745794c610112c6) | EQBJ2HCxkBKh8s9bq3wdUCEYKN3VMP_nesZXRXlMYQESxhYk
+[MINT Coin](https://tonviewer.com/0:09ea7b804eef41f463b29f395f623e8880a8a5fc68e7647f980f57e84b2e6a32) | EQAJ6nuATu9B9GOynzlfYj6IgKil_GjnZH-YD1foSy5qMm_t
 [Mintless Points](https://tonviewer.com/0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832) | EQD6Z9DHc5Mx-8PI8I4BjGX0d2NhapaRAK12CgstweNoMint
 [Mistress](https://tonviewer.com/0:77a1e6819c862a15b907a6164c9c2b4e3b7eccb9de5bdcd49d2f43c062482bdd) | EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur
 [MonkeyRush](https://tonviewer.com/0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3) | EQB-P4kptZYjVGOTMhTgwVtt1uH_R9SFlymxc0JqpcAXsxf5
