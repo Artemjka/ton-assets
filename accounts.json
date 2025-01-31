@@ -1250,5 +1250,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "0:09ea7b804eef41f463b29f395f623e8880a8a5fc68e7647f980f57e84b2e6a32",
+  "image": "https://cdn4.cdn-telegram.org/file/a1-2-BhdWQf_Wd_7eHhkEfmZtIKVmLTo8GYen5ccv3esaH4dkpYrBAILpGwuqHomJsDMyglDEZ5c3X1ngEaEm44Ynw20EITWPOpA0Oj4LMpb-zMtlTJIcBppI_b73MALKmDuhaeOnWEd4S9gKI71AC3_7-sEZFw3X8jQR8byx4Uaye8xP_uYEc4U0lBQN8e3wJBFH7V-B_HAAL3k0RCWk_9qkKiQVxUB37Etjhr-t_KQEiJAZt027wxvLXKHmw6fmZ3zTSBGvp8VlL9DOad6B1yV0W8gLBC_6WSzad8yMmlqcJHuMZ_rWDjAzHzth5X8Xc769Vif0ZTTtUUVGw2r4g.jpg",
+  "name": "MINT Coin"
  }
 ]
